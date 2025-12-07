@@ -1,11 +1,13 @@
 # הוראות התקנה והרצה
 
+ראשית - הורד את הקבצים מהGit repo
+
 ## שלב 1: התקנת תלויות
 
 פתח Terminal ב-Cursor והרץ:
 
 ```powershell
-cd C:\Users\Dell\Test\boom_assignment
+cd <FILE_PATH>
 npm install
 ```
 
@@ -87,4 +89,5 @@ boom_assignment/
 - **אל תסגור את הטרמינל!** השרת צריך להמשיך לרוץ
 - ודא שה-backend רץ (פורט 5000) לפני ביצוע חיפוש
 - אם יש שגיאת CORS, ודא שה-backend רץ
+
 
